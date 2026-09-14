@@ -8,54 +8,90 @@
   :root { color-scheme: light dark; }
   body { font-family: system-ui, -apple-system, Segoe UI, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.5; }
   h1 { font-size: 1.4rem; margin-bottom: .25rem; }
-  .tag { display:inline-block; font-size:.75rem; padding:.15rem .5rem; border:1px solid #8884; border-radius:999px; margin-right:.35rem; }
+  .tag { display:inline-block; font-size:.75rem; padding:.15rem .5rem; border:1px solid #8884; border-radius:999px; margin-right:.35rem; margin-bottom:.25rem; }
   video, img { max-width:100%; border-radius:8px; background:#111; }
   .box { border:1px solid #8884; border-radius:10px; padding:1rem; margin:1rem 0; }
+  .cards { display:grid; gap:.75rem; }
+  @media (min-width:640px) { .cards { grid-template-columns: 1fr 1fr; } }
+  .card { border:1px solid #8884; border-radius:10px; padding:.85rem; }
+  .card h3 { margin:0 0 .35rem; font-size:1rem; }
   a { color: inherit; }
   .muted { opacity:.8; font-size:.9rem; }
   ul { padding-left: 1.2rem; }
 </style>
 </head>
 <body>
-  <p><span class="tag">For hire</span><span class="tag">Remote</span><span class="tag">USDT ok</span></p>
-  <h1>15–30s ecommerce short ads for Meta / TikTok</h1>
-  <p class="muted">Independent freelancer offer page (not a marketplace profile). Honest labeling — demo is a pipeline sample, not a claimed ROAS case study.</p>
+  <p>
+    <span class="tag">For hire</span>
+    <span class="tag">Remote</span>
+    <span class="tag">USDT ok</span>
+    <span class="tag">4 creative families / week</span>
+  </p>
+  <h1>15–30s Meta / TikTok ecommerce short ads</h1>
+  <p class="muted">Independent freelancer offer. Demo is a <strong>pipeline sample</strong> — not a claimed ROAS case study. Built for Meta Creative Diversity needs: UGC / demo / testimonial / product-led families.</p>
 
   <div class="box">
-    <strong>Trial</strong>
+    <strong>Trial pricing</strong>
     <ul>
       <li><strong>USD 225</strong> — one product, one 15–20s primary ad + alt hook</li>
+      <li>Extra hook variants: priced per additional cut (written before work)</li>
       <li>9:16, captions, CTA end-card</li>
-      <li>USDT accepted</li>
-      <li>Scope written before work starts; revisions as agreed in writing</li>
+      <li>USDT accepted · work starts after funded milestone / written scope</li>
     </ul>
   </div>
 
   <div class="box">
-    <strong>Demo (sample)</strong>
-    <p class="muted">Short vertical sample. Temporary mirror also on litterbox (may expire).</p>
-    <video controls playsinline poster="https://litter.catbox.moe/5p2jma.jpg" src="https://litter.catbox.moe/bv91a4.mp4"></video>
-    <p class="muted">
-      Video: <a href="https://litter.catbox.moe/bv91a4.mp4">litter.catbox.moe/bv91a4.mp4</a><br/>
-      Still: <a href="https://litter.catbox.moe/5p2jma.jpg">litter.catbox.moe/5p2jma.jpg</a>
-    </p>
+    <strong>Demo (permanent on this page)</strong>
+    <p class="muted">Vertical sample hosted here (GitHub Pages). Honest label: pipeline sample, not advertiser results.</p>
+    <video controls playsinline poster="assets/poster_hook.jpg" src="assets/demo_9x16.mp4"></video>
+  </div>
+
+  <div class="box">
+    <strong>3 creative cards (sample families)</strong>
+    <p class="muted">Metrics below are honest placeholders for the public sample — N/A for live brand ROAS until a paid trial.</p>
+    <div class="cards">
+      <div class="card">
+        <h3>1 · Hook A/B (pattern interrupt)</h3>
+        <p class="muted">Brand: sample DTC · Goal: stop-scroll first 1s</p>
+        <ul>
+          <li>Family: curiosity hook variants</li>
+          <li>Learning: hook rate — N/A (sample)</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>2 · UGC-style talk-to-camera</h3>
+        <p class="muted">Brand: sample DTC · Goal: trust + benefit in 15–20s</p>
+        <ul>
+          <li>Family: UGC / testimonial-adjacent</li>
+          <li>Learning: completion — N/A (sample)</li>
+        </ul>
+      </div>
+      <div class="card">
+        <h3>3 · Product-led demo</h3>
+        <p class="muted">Brand: sample DTC · Goal: show product + CTA</p>
+        <ul>
+          <li>Family: product demo / unbox-style</li>
+          <li>Learning: CTA clicks — N/A (sample)</li>
+        </ul>
+      </div>
+    </div>
   </div>
 
   <div class="box">
     <strong>Fit</strong>
     <ul>
-      <li>DTC / ecommerce brands needing Meta or TikTok short ads</li>
-      <li>UGC-style or product-led 15–30s cuts</li>
-      <li>Not: fake social proof, guaranteed ROAS, or unpaid “test” without a written trial</li>
+      <li>DTC / ecommerce needing Meta or TikTok shorts</li>
+      <li>UGC-style or product-led 15–30s cuts; weekly creative diversity packs</li>
+      <li>Not: fake social proof, guaranteed ROAS, unpaid “tests” without written trial</li>
     </ul>
   </div>
 
   <div class="box">
-    <strong>Next step</strong>
-    <p>Email product URL + 1 angle you like → reply with scope + invoice path (card or USDT).</p>
-    <p class="muted">Contact via GitHub profile associated with this page, or reply on the channel where you found this link.</p>
+    <strong>Contact</strong>
+    <p>Email product URL + 1 angle → scope + invoice path (card or USDT).</p>
+    <p><a href="mailto:jimmychau1997@gmail.com?subject=Ecommerce%20short%20ads%20trial">jimmychau1997@gmail.com</a></p>
   </div>
 
-  <p class="muted">Updated 2026-09-08 · wave2 alt rails</p>
+  <p class="muted">Updated 2026-09-14 · profile P0 (permanent demo + creative cards + contact)</p>
 </body>
 </html>
