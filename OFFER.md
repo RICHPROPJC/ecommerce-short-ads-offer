@@ -3,11 +3,6 @@
 **Trial:** USD **225** · one product · 15–20s primary + alt hook · 9:16 · captions · CTA · **USDT ok**
 
 **Demo (pipeline sample, not a ROAS case study):**
-- Video: https://litter.catbox.moe/bv91a4.mp4
-- Still: https://litter.catbox.moe/5p2jma.jpg
-
-**Fit:** DTC / Meta / TikTok short ads. Scope in writing before work.
-
-**Not:** guaranteed ROAS, fake testimonials, unpaid tests without a written trial.
-
-Contact via the GitHub account that owns this gist/repo, or the channel where you found the link.
+- Night Drive AI (featured): https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/night_drive_v21.mp4
+- Desk organizer (9:16): https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/demo_9x16.mp4
+- Still: https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/night_drive_v21_poster.jpg
