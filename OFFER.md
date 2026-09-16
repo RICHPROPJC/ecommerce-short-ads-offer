@@ -7,8 +7,8 @@
 - **Email:** [jimmychau1997@gmail.com](mailto:jimmychau1997@gmail.com?subject=Ecommerce%20short%20ads%20trial%20USD%20225)
 - **Offer page:** https://richpropjc.github.io/ecommerce-short-ads-offer/
 - **Demos:**
-  - Desk organizer 9:16 (primary): https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/demo_9x16.mp4
-  - Night Drive AI (lifestyle / pipeline, secondary): https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/night_drive_v21.mp4
+  - Desk organizer 9:16 (**PRIMARY hero** → `assets/demo_9x16.mp4`): https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/demo_9x16.mp4
+  - Night Drive AI (secondary pipeline lifestyle only): https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/night_drive_v21.mp4
   - Still: https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/poster_hook.jpg
 
 Reply with your SKU + 1 reference ad and we lock the trial scope in writing before start (funded milestone).
