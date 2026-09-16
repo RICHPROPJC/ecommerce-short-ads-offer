@@ -10,11 +10,11 @@ https://richpropjc.github.io/ecommerce-short-ads-offer/
 
 | Demo | Link | Notes |
 |------|------|-------|
-| Desk organizer 9:16 | [demo_9x16.mp4](https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/demo_9x16.mp4) | Vertical Meta/TikTok format · remix-kit sample (placeholder plate) |
-| Hook variants L1–L3 | [L1](assets/sku_desk_L1.mp4) · [L2](assets/sku_desk_L2.mp4) · [L3](assets/sku_desk_L3.mp4) | Same SKU, different hooks |
-| Night Drive AI | [night_drive_v21.mp4](https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/night_drive_v21.mp4) | Lifestyle pipeline sample (landscape); vertical delivery on request |
+| **Desk organizer 9:16 (PRIMARY hero)** | [`assets/demo_9x16.mp4`](assets/demo_9x16.mp4) · [raw](https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/demo_9x16.mp4) | Vertical Meta/TikTok hero — **replace this file in place** when real H3 product-led 9:16 is ready |
+| Hook variants L1–L3 | [`sku_desk_L1`](assets/sku_desk_L1.mp4) · [`L2`](assets/sku_desk_L2.mp4) · [`L3`](assets/sku_desk_L3.mp4) | Same SKU, different hooks — replace in place with real cuts |
+| Night Drive AI (secondary only) | [`assets/night_drive_v21.mp4`](assets/night_drive_v21.mp4) · [raw](https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/night_drive_v21.mp4) | Lifestyle / pipeline sample (landscape) — never the primary Meta short |
 
-> Samples are **SKU remix / pipeline demos**, not live brand ROAS case studies. Client delivery uses your authorized product plates.
+> Samples are **SKU remix / pipeline demos**, not live brand ROAS case studies. Current desk file may still show synthetic placeholder banners until the real H3 export lands; client delivery always uses authorized product plates.
 
 ## What you get
 
