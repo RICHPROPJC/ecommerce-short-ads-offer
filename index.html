@@ -29,6 +29,12 @@
   .card { border:1px solid #8884; border-radius:10px; padding:.85rem; }
   .card h3 { margin:0 0 .35rem; font-size:1rem; }
   .card video { display:block; width:min(100%, 220px); margin: .35rem auto 0; aspect-ratio: 9 / 16; object-fit: cover; }
+  .still-grid { display:grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap:.75rem; }
+  @media (min-width: 640px) { .still-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  .still-card { border:1px solid #8884; border-radius:10px; padding:.65rem; }
+  .still-card h3 { margin:0 0 .35rem; font-size:.9rem; }
+  .still-card img { width:100%; aspect-ratio: 16 / 9; object-fit: cover; display:block; }
+  .still-card video { display:block; width:100%; margin-top:.4rem; aspect-ratio: 9 / 16; object-fit: cover; }
   a { color: inherit; }
   .muted { opacity:.8; font-size:.9rem; }
   .note {
@@ -55,6 +61,7 @@
     <span class="tag">Remote</span>
     <span class="tag">USDT ok</span>
     <span class="tag">4 creative families / week</span>
+    <span class="tag">U1.5 still packs</span>
   </p>
   <h1>15–30s Meta / TikTok ecommerce short ads</h1>
   <p class="muted">Independent freelancer offer. Samples below are <strong>pipeline / lifestyle demos</strong> — not live brand ROAS case studies. Delivery swaps in your authorized product plates.</p>
@@ -98,6 +105,46 @@
     </div>
   </div>
 
+  <!-- NEW: Still packs (U1.5 4K) — ABOVE Night Drive landscape -->
+  <div class="box" id="still-packs">
+    <strong>Still packs (U1.5 4K)</strong>
+    <p class="muted">Six sample-SKU commercial stills via SenseNova U1.5 on AOTI/base (~30–50s each at 2048×1152) + 7s 9:16 Ken Burns shorts. <strong>Sample plates only — not client ROAS.</strong></p>
+    <p><img src="assets/stills/contact_sheet.jpg" alt="U1.5 still pack contact sheet"/></p>
+    <div class="still-grid">
+      <div class="still-card">
+        <h3>1 · Earbuds neon pedestal</h3>
+        <img src="assets/stills/still_01_earbuds.jpg" alt="Premium earbuds on wet neon pedestal"/>
+        <video controls playsinline muted src="assets/clips/still_01_earbuds.mp4"></video>
+      </div>
+      <div class="still-card">
+        <h3>2 · Bamboo cable organizer</h3>
+        <img src="assets/stills/still_02_bamboo.jpg" alt="Bamboo desk cable organizer"/>
+        <video controls playsinline muted src="assets/clips/still_02_bamboo.mp4"></video>
+      </div>
+      <div class="still-card">
+        <h3>3 · Magnetic cable holder</h3>
+        <img src="assets/stills/still_03_orbitkey.jpg" alt="Magnetic cable holder on desk mat"/>
+        <video controls playsinline muted src="assets/clips/still_03_orbitkey.mp4"></video>
+      </div>
+      <div class="still-card">
+        <h3>4 · In-drawer power dock</h3>
+        <img src="assets/stills/still_04_drawer.jpg" alt="In-drawer power docking tidy"/>
+        <video controls playsinline muted src="assets/clips/still_04_drawer.mp4"></video>
+      </div>
+      <div class="still-card">
+        <h3>5 · MagSafe car mount</h3>
+        <img src="assets/stills/still_05_magsafe.jpg" alt="MagSafe car mount lifestyle"/>
+        <video controls playsinline muted src="assets/clips/still_05_magsafe.mp4"></video>
+      </div>
+      <div class="still-card">
+        <h3>6 · Magnetic desk fidget</h3>
+        <img src="assets/stills/still_06_speks.jpg" alt="Speks-like magnetic desk toy"/>
+        <video controls playsinline muted src="assets/clips/still_06_speks.mp4"></video>
+      </div>
+    </div>
+    <p class="muted">Paths: <code>assets/stills/*.jpg</code> · <code>assets/clips/still_*.mp4</code> · contact sheet included.</p>
+  </div>
+
   <!-- SECONDARY ONLY: lifestyle / pipeline proof — never promote above #primary-demo -->
   <div class="box" id="pipeline-sample">
     <strong>Secondary sample — Night Drive AI (lifestyle / pipeline)</strong>
@@ -120,6 +167,6 @@
     <p class="muted">Offer page: <a href="https://richpropjc.github.io/ecommerce-short-ads-offer/">richpropjc.github.io/ecommerce-short-ads-offer</a></p>
   </div>
 
-  <p class="muted">Updated 2026-09-16 · packaging: Night Drive 9:16 primary (v2 center-crop remux) · no synthetic placeholder · no ROAS cases</p>
+  <p class="muted">Updated 2026-09-16 · packaging: Night Drive 9:16 primary + U1.5 still packs · sample SKUs only · no ROAS cases</p>
 </body>
 </html>

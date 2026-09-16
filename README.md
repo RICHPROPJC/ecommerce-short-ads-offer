@@ -12,9 +12,10 @@ https://richpropjc.github.io/ecommerce-short-ads-offer/
 |------|------|-------|
 | **Primary · 9:16 hero** | [demo_9x16.mp4](https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/demo_9x16.mp4) | Real H3 lifestyle short (Night Drive headphones SKU) · English captions · 1080×1920 |
 | Hook variants | [L1](assets/sku_desk_L1.mp4) · [L2](assets/sku_desk_L2.mp4) · [L3](assets/sku_desk_L3.mp4) | Caption variants of the same hero |
+| **Still packs (U1.5 4K)** | [stills/](assets/stills/) · [clips/](assets/clips/) | Six sample-SKU commercial stills + 7s Ken Burns 9:16 — image packs land fast via U1.5 (~30–50s/frame on AOTI) |
 | Night Drive landscape | [night_drive_v21.mp4](https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/night_drive_v21.mp4) | Pipeline source cut (16:9) |
 
-> Samples are **pipeline demos on a sample SKU**, not live brand ROAS case studies. Client delivery uses your authorized product plates.
+> Samples are **pipeline demos on sample SKUs**, not live brand ROAS case studies. Client delivery uses your authorized product plates.
 
 ## What you get
 
@@ -22,10 +23,11 @@ https://richpropjc.github.io/ecommerce-short-ads-offer/
 - Hook-first, captions, CTA end-card
 - Extra hooks priced per cut (written before work)
 - Funded milestone before start
+- Optional still packs: U1.5 4K product heroes turn around in tens of seconds per plate
 
 ## Fit
 
 - DTC / ecommerce Meta or TikTok shorts; weekly creative diversity packs
 - Not: fake social proof, guaranteed ROAS, unpaid tests without written trial
 
-**Contact:** jimmychau1997@gmail.com · Updated 2026-09-16 (hero replaced — no placeholder kit)
+**Contact:** jimmychau1997@gmail.com · Updated 2026-09-16 (U1.5 still packs added — sample SKUs only)
