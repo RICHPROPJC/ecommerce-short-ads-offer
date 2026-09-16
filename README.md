@@ -1,33 +1,31 @@
-# Ecommerce short ads — trial USD 225
+# Hire ecommerce short ads — trial USD 225
 
-**Start here (offer page with embedded demos):**  
-https://richpropjc.github.io/ecommerce-short-ads-offer/
+**We sell ad creative service — not products.**  
+Meta / TikTok **15–30s shorts** made for your DTC brand. Sample videos/images below are **style demos** (fictional sample SKUs) so you can see the craft. Delivery uses **your** authorized product plates.
 
-**Trial:** USD 225 · one product · 15–20s primary + alt hook · 9:16 · captions · CTA · **USDT ok**  
-**Email:** [jimmychau1997@gmail.com](mailto:jimmychau1997@gmail.com?subject=Ecommerce%20short%20ads%20trial%20USD%20225)
+**Start here:** https://richpropjc.github.io/ecommerce-short-ads-offer/
 
-## Watch demos
+**Trial:** USD 225 · one of *your* products · 15–20s primary + alt hook · 9:16 · captions · CTA · **USDT ok**  
+**Email:** [jimmychau1997@gmail.com](mailto:jimmychau1997@gmail.com?subject=Hire%20ecommerce%20short%20ads%20trial%20USD%20225)
 
-| Demo | Link | Notes |
-|------|------|-------|
-| **Primary · 9:16 hero** | [demo_9x16.mp4](https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/demo_9x16.mp4) | Real H3 lifestyle short (Night Drive headphones SKU) · English captions · 1080×1920 |
-| Hook variants | [L1](assets/sku_desk_L1.mp4) · [L2](assets/sku_desk_L2.mp4) · [L3](assets/sku_desk_L3.mp4) | Caption variants of the same hero |
-| **Still packs (U1.5 4K)** | [stills/](assets/stills/) · [clips/](assets/clips/) | Six sample-SKU commercial stills + 7s Ken Burns 9:16 — image packs land fast via U1.5 (~30–50s/frame on AOTI) |
-| Night Drive landscape | [night_drive_v21.mp4](https://raw.githubusercontent.com/RICHPROPJC/ecommerce-short-ads-offer/main/assets/night_drive_v21.mp4) | Pipeline source cut (16:9) |
+## What you are buying
 
-> Samples are **pipeline demos on sample SKUs**, not live brand ROAS case studies. Client delivery uses your authorized product plates.
-
-## What you get
-
-- One product · one 15–20s primary Meta/TikTok short + alt hook
-- Hook-first, captions, CTA end-card
+- Ad production for Meta/TikTok (hook-first short + alt hook)
+- Captions + end-card CTA on your SKU
 - Extra hooks priced per cut (written before work)
 - Funded milestone before start
-- Optional still packs: U1.5 4K product heroes turn around in tens of seconds per plate
 
-## Fit
+You are **not** buying earbuds, desk mats, cables, or any physical goods from this page.
 
-- DTC / ecommerce Meta or TikTok shorts; weekly creative diversity packs
-- Not: fake social proof, guaranteed ROAS, unpaid tests without written trial
+## Style demos (not merchandise)
 
-**Contact:** jimmychau1997@gmail.com · Updated 2026-09-16 (U1.5 still packs added — sample SKUs only)
+| Demo | Link | What it shows |
+|------|------|----------------|
+| Primary 9:16 short | [demo_9x16.mp4](assets/demo_9x16.mp4) | Full short-ad craft sample (sample lifestyle SKU) |
+| Hook variants | [L1](assets/sku_desk_L1.mp4) · [L2](assets/sku_desk_L2.mp4) · [L3](assets/sku_desk_L3.mp4) | Same craft, different caption beats |
+| Still packs (U1.5) | [stills/](assets/stills/) · [clips/](assets/clips/) | Fast product-*plate* styles we can remix onto **your** SKU |
+| Pipeline landscape | [night_drive_v21.mp4](assets/night_drive_v21.mp4) | Secondary pipeline look |
+
+> Not live brand ROAS case studies. No fake guaranteed ROAS.
+
+**Contact:** jimmychau1997@gmail.com · Updated 2026-09-16
